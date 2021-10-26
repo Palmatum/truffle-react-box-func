@@ -1,3 +1,9 @@
+TURNED CLASS BASED COMPONENTS INTO FUNCTIONAL COMPONENTS WITH THE HELP OF HOOKS.
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
